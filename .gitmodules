@@ -1,3 +1,6 @@
 [submodule "python-datalab-api"]
 	path = python-datalab-api
 	url = https://github.com/josemanuel22/-fluffy-couscous.git
+[submodule "jose-dockers"]
+	path = jose-dockers
+	url = https://github.com/josemanuel22/miniature-octo-winner.git
