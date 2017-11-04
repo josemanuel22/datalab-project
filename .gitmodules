@@ -13,3 +13,6 @@
 [submodule "installation"]
 	path = installation
 	url = https://github.com/josemanuel22/congenial-octo-goggles.git
+[submodule "jose-apps"]
+	path = jose-apps
+	url = https://github.com/josemanuel22/fluffy-octo-palm-tree.git
