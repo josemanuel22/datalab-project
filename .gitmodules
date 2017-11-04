@@ -7,3 +7,6 @@
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/josemanuel22/friendly-carnival.git
+[submodule "parssing"]
+	path = parssing
+	url = https://github.com/josemanuel22/ubiquitous-octo-invention.git
