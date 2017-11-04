@@ -4,3 +4,6 @@
 [submodule "jose-dockers"]
 	path = jose-dockers
 	url = https://github.com/josemanuel22/miniature-octo-winner.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/josemanuel22/friendly-carnival.git
