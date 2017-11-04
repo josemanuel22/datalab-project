@@ -10,3 +10,6 @@
 [submodule "parssing"]
 	path = parssing
 	url = https://github.com/josemanuel22/ubiquitous-octo-invention.git
+[submodule "installation"]
+	path = installation
+	url = https://github.com/josemanuel22/congenial-octo-goggles.git
