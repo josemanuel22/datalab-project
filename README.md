@@ -1,6 +1,6 @@
 # Datalab-project
 
-Datalab project developed for the European Southern Observatory.
+Part of my code for the Datalab project developed for the `European Southern Observatory` (ESO).
 
 ## What is inside
 
