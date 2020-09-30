@@ -9,6 +9,15 @@ It contains among other things many `Dockers` with images of the installed datab
 
 Everything is a little messy.
 
+Big Data Analysis:
+* Installation Datalab for Observatory Logs: Elasticsearch, Cassandra, Elassandra, Kairosdb.
+* Servers orchestration: Puppet.
+* Installation and work with Data Analytic tools, ELK: Jupyter, Grafana, Kibana.
+* Security: Reverse proxy, openScap, openVAS, Seccubus, Dagda.
+* Anomaly detection: Python (Pandas, TensorFlow).
+* Script: Python, Bash.
+* Data Visualization: Python (Matplotlib, Bokeh, Plotly).
+
 ## More Info
 
 [Conference Paper about Datalab Project](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10704/107042J/Framework-to-use-modern-big-data-software-tools-to-improve/10.1117/12.2312096.short?SSO=1)
